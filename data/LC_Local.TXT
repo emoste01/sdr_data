@@ -1,0 +1,80 @@
+f=453450000,d=Sheriff Roman Nose
+f=453450000,d=Sheriff Roman Nose
+f=453687500,d=Sheriff - Harness Mtn
+f=453687500,d=Sheriff - Harness Mtn
+f=460175000,d=Sheriff Roman Nose
+f=460175000,d=Sheriff 3 Baker Roman Nose Digital
+f=460225000,d=Sheriff - Coburg Ridge
+f=460225000,d=Sheriff - Coburg Ridge
+f=460275000,d=Sheriff - 1 West Florence
+f=460275000,d=Sheriff - 1 West Florence
+f=460425000,d=Sheriff Prairie Peak
+f=460425000,d=Sheriff Prairie Peak
+f=460600000,d=Sheriff Cape Perpetua
+f=460600000,d=Sheriff Cape Perpetua
+f=453775000,d=Lane Events Center
+f=460200000,d=Sheriff
+f=460550000,d=Sheriff
+f=460150000,d=Jail
+f=153965000,d=Search and Rescue
+f=452877500,d=LTD RideSource Paratransit
+f=453425000,d=LTD Operations
+f=453575000,d=LTD Operations
+f=154355000,d=Metro 1 (Eugene/Springfield Dispatch)
+f=154445000,d=Metro 2 (Crestview Command)
+f=155760000,d=Firecom 3 (Quarry Command)
+f=159202500,d=Metro 4 (Skinner Command)
+f=153950000,d=Metro 9 (Metro Training)
+f=154190000,d=Metro 11 (Metro Tactical)
+f=154265000,d=Firecom 2 (Metro Tactical)
+f=154145000,d=Metro 14 (Metro Tactical)
+f=154430000,d=East 1 (East/South Dispatch)
+f=155925000,d=East 2 (McKenzie Command)
+f=154890000,d=East 3 (Lookout Command)
+f=154400000,d=East 6 (Hansen Butte Repeater)
+f=154415000,d=East 7 (Sisters Fire Santiam Pass)
+f=155977500,d=East 8 (Leaburg Repeater)
+f=154995000,d=West 1 (West Dispatch)
+f=151370000,d=West 2 (Walker Point Command)
+f=155820000,d=West 3 (Prairie Peak Command)
+f=159360000,d=West 6 (Junction City Dispatch)
+f=154415000,d=West 7 (Junction City Tac)
+f=155865000,d=Lane 4 (Bear Mountain Command)
+f=159135000,d=Lane 5 (Coburg Ridge Command)
+f=150775000,d=Lane 9 (Rural Training)
+f=154295000,d=Lane 11 (County Tactical)
+f=158880000,d=Lane 12 (County Tactical)
+f=154175000,d=Lane 13 (County Tactical)
+f=154010000,d=Lane 14 (County Tactical)
+f=154070000,d=Mohawk Valley Fire 3
+f=154385000,d=Mohawk Valley Fire 1
+f=154980000,d=Lane Fire Authority Tactical
+f=155160000,d=Lane County Fire RIT
+f=460325000,d=Police Dispatch
+f=460287500,d=Police - Tactical
+f=154025000,d=Airport Services
+f=453750000,d=Public Works
+f=155655000,d=Police Dispatch
+f=155040000,d=Public Works
+f=155340000,d=Riverbend Hospital
+f=155340000,d=McKenzie-Willamette Hospital
+f=155340000,d=Cottage Grove Hospital
+f=155340000,d=University District Hospital
+f=155340000,d=Florence PeaceHealth
+f=460775000,d=University District Hospital Security
+f=453512500,d=Police
+f=155955000,d=Police - Oakridge Ops
+f=453800000,d=Police - Relay in Lowell/Dexter
+f=154295000,d=Fire Dispatch
+f=155160000,d=Fire Operations/EMS/Fireground
+f=460125000,d=Public Works 1
+f=155895000,d=WLF Dispatch for Fire and EMS
+f=155265000,d=Operations 1
+f=156120000,d=Fire and EMS Operations 2
+f=154490000,d=Fire Dispatch
+f=159187500,d=Confederated Tribes Police Dept.
+f=463400000,d=Three Rivers Casino Security
+f=408200000,d=Eugene Dispatch
+f=453300000,d=Operations
+f=460375000,d=University Ops
+f=461450000,d=Athletic Dept Ops
