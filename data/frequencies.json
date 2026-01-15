@@ -1,0 +1,411 @@
+{
+    "bookmarkDisplayMode": 1,
+    "lists": {
+        "General": {
+            "bookmarks": {
+                "3RivCas Security": {
+                    "bandwidth": 12500.0,
+                    "frequency": 463400000.0,
+                    "mode": 1
+                },
+                "BEAR MT CMD": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155865000.0,
+                    "mode": 1
+                },
+                "CG Hosp": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155340000.0,
+                    "mode": 1
+                },
+                "CRESTVW CMD": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154445000.0,
+                    "mode": 1
+                },
+                "CTCLUS Police": {
+                    "bandwidth": 12500.0,
+                    "frequency": 159187500.0,
+                    "mode": 1
+                },
+                "CotgGrove PD Tac": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460287500.0,
+                    "mode": 1
+                },
+                "CotgGrove Police": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460325000.0,
+                    "mode": 1
+                },
+                "EAST FD DP": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154430000.0,
+                    "mode": 1
+                },
+                "Eug Public Wrks": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453750000.0,
+                    "mode": 1
+                },
+                "Eugene Airport": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154025000.0,
+                    "mode": 1
+                },
+                "FPS EugDisp": {
+                    "bandwidth": 12500.0,
+                    "frequency": 408200000.0,
+                    "mode": 6
+                },
+                "Firecom 2": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154265000.0,
+                    "mode": 1
+                },
+                "Firecom 3": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155760000.0,
+                    "mode": 1
+                },
+                "Florence Police": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155655000.0,
+                    "mode": 1
+                },
+                "Florence PubWrks": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155040000.0,
+                    "mode": 1
+                },
+                "HANSEN RPT": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154400000.0,
+                    "mode": 1
+                },
+                "JCTCITY FDDP": {
+                    "bandwidth": 12500.0,
+                    "frequency": 159360000.0,
+                    "mode": 1
+                },
+                "JCTCITY TAC2": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154415000.0,
+                    "mode": 1
+                },
+                "JuncCity Police": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453512500.0,
+                    "mode": 6
+                },
+                "LANE CO CMD": {
+                    "bandwidth": 12500.0,
+                    "frequency": 159135000.0,
+                    "mode": 1
+                },
+                "LANE CO RIT": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155160000.0,
+                    "mode": 1
+                },
+                "LANE COFATac": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154980000.0,
+                    "mode": 1
+                },
+                "LANECO TAC11": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154295000.0,
+                    "mode": 1
+                },
+                "LANECO TAC12": {
+                    "bandwidth": 12500.0,
+                    "frequency": 158880000.0,
+                    "mode": 1
+                },
+                "LANECO TAC13": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154175000.0,
+                    "mode": 1
+                },
+                "LANECO TAC14": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154010000.0,
+                    "mode": 1
+                },
+                "LCC Ops": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453300000.0,
+                    "mode": 1
+                },
+                "LCSO 1 West A": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460275000.0,
+                    "mode": 1
+                },
+                "LCSO 1 West D": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460275000.0,
+                    "mode": 6
+                },
+                "LCSO 2 North A": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460425000.0,
+                    "mode": 1
+                },
+                "LCSO 2 North D": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460425000.0,
+                    "mode": 6
+                },
+                "LCSO 3 Baker A": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460175000.0,
+                    "mode": 1
+                },
+                "LCSO 3 Baker D": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460175000.0,
+                    "mode": 6
+                },
+                "LCSO 3 North A": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460600000.0,
+                    "mode": 1
+                },
+                "LCSO 3 North D": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460600000.0,
+                    "mode": 6
+                },
+                "LCSO North A": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460225000.0,
+                    "mode": 1
+                },
+                "LCSO North D": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460225000.0,
+                    "mode": 6
+                },
+                "LCSO Roman A": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453450000.0,
+                    "mode": 1
+                },
+                "LCSO Roman D": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453450000.0,
+                    "mode": 6
+                },
+                "LCSO South A": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453687500.0,
+                    "mode": 1
+                },
+                "LCSO South D": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453687500.0,
+                    "mode": 6
+                },
+                "LEABURG RPT": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155977500.0,
+                    "mode": 1
+                },
+                "LOOKOUT CMD": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154890000.0,
+                    "mode": 1
+                },
+                "LTD DTrans": {
+                    "bandwidth": 12500.0,
+                    "frequency": 452877500.0,
+                    "mode": 1
+                },
+                "LTD Ops A": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453425000.0,
+                    "mode": 1
+                },
+                "LTD Ops B": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453575000.0,
+                    "mode": 1
+                },
+                "Lane Events": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453775000.0,
+                    "mode": 1
+                },
+                "Lane Sheriff DA": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460200000.0,
+                    "mode": 6
+                },
+                "Lane Sheriff DB": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460550000.0,
+                    "mode": 6
+                },
+                "Lane SheriffJail": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460150000.0,
+                    "mode": 6
+                },
+                "LaneCo Search": {
+                    "bandwidth": 12500.0,
+                    "frequency": 153965000.0,
+                    "mode": 1
+                },
+                "MCKNZIE CMD": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155925000.0,
+                    "mode": 1
+                },
+                "METRO FD DP": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154355000.0,
+                    "mode": 1
+                },
+                "METRO TAC11": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154190000.0,
+                    "mode": 1
+                },
+                "METRO TAC14": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154145000.0,
+                    "mode": 1
+                },
+                "METRO TRN": {
+                    "bandwidth": 12500.0,
+                    "frequency": 153950000.0,
+                    "mode": 1
+                },
+                "MOHAWK VLY1": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154385000.0,
+                    "mode": 1
+                },
+                "MOHAWK VLY3": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154070000.0,
+                    "mode": 1
+                },
+                "Mc-Wil Hosp": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155340000.0,
+                    "mode": 1
+                },
+                "OR PD RF Low/Dex": {
+                    "bandwidth": 12500.0,
+                    "frequency": 453800000.0,
+                    "mode": 1
+                },
+                "Oakridge Fire 1": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154295000.0,
+                    "mode": 1
+                },
+                "Oakridge Fire 2": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155160000.0,
+                    "mode": 1
+                },
+                "Oakridge Police": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155955000.0,
+                    "mode": 1
+                },
+                "PRAIRIE CMD": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155820000.0,
+                    "mode": 1
+                },
+                "Peace Har": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155340000.0,
+                    "mode": 1
+                },
+                "RURAL TRN": {
+                    "bandwidth": 12500.0,
+                    "frequency": 150775000.0,
+                    "mode": 1
+                },
+                "Riv Hosp": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155340000.0,
+                    "mode": 1
+                },
+                "SANTIAM RPT": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154415000.0,
+                    "mode": 1
+                },
+                "SKINNER CMD": {
+                    "bandwidth": 12500.0,
+                    "frequency": 159202500.0,
+                    "mode": 1
+                },
+                "Spfld PubWorks 1": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460125000.0,
+                    "mode": 1
+                },
+                "UDH sec": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460775000.0,
+                    "mode": 1
+                },
+                "UO Athletic Dep": {
+                    "bandwidth": 12500.0,
+                    "frequency": 461450000.0,
+                    "mode": 1
+                },
+                "UO Ops": {
+                    "bandwidth": 12500.0,
+                    "frequency": 460375000.0,
+                    "mode": 1
+                },
+                "UnD Hosp": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155340000.0,
+                    "mode": 1
+                },
+                "WALKER CMD": {
+                    "bandwidth": 12500.0,
+                    "frequency": 151370000.0,
+                    "mode": 1
+                },
+                "WEST FD DP": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154995000.0,
+                    "mode": 1
+                },
+                "WLF Dispatch": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155895000.0,
+                    "mode": 1
+                },
+                "WLF OPS 1": {
+                    "bandwidth": 12500.0,
+                    "frequency": 155265000.0,
+                    "mode": 1
+                },
+                "WLFE Ops 2": {
+                    "bandwidth": 12500.0,
+                    "frequency": 156120000.0,
+                    "mode": 1
+                },
+                "Westfir Fire": {
+                    "bandwidth": 12500.0,
+                    "frequency": 154490000.0,
+                    "mode": 1
+                }
+            },
+            "showOnWaterfall": true
+        }
+    },
+    "selectedList": "General"
+}
